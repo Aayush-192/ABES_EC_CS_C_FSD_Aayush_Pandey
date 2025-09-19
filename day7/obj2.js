@@ -20,7 +20,7 @@ const student={
 console.log("before",student.section);
 console.log("before",student.adderss.city);
 
-const newStudent=Object.assign()
+
 
 
 

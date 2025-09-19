@@ -1,3 +1,3 @@
 class student{
-    constructor(rollno,)
+    
 }
