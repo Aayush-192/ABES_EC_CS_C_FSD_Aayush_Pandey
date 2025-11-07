@@ -1,0 +1,26 @@
+#header{
+    background-color: rgb(125, 135, 132);
+    justify-content: space-around;
+}
+.nav-items{
+    display: flex;
+}
+.nav-items > li{
+    padding: 15px;
+    margin: 15px;
+    list-style-type: none;
+    font-size: 30px;
+}
+.logo{
+    width: 15px;
+    height: 15px
+}
+.product{
+    height: 165px;
+    width:165px;
+}
+.product-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+}
